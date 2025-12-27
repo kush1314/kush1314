@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=py,java,ts,cpp,js,html,css,cs,r,postgres,mysql,django,flask,react,nextjs,nodejs,firebase,azure,gcp,git,docker,vscode,idea,maven,bitbucket,postman,sqlite,sklearn,regex&perline=10)](https://skillicons.dev)
+

@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hi!
 
 I’m Kush! I’m currently studying **Computer Science & Economics** with a **minor in Statistics** at **UIUC**.  
-I enjoy building full-stack applications, working with data, and exploring how software and AI can solve real-world problems.
-
-You’ll usually find me working on projects involving backend systems, modern web frameworks, or data-driven tools. Always learning, always building 🚀
+I enjoy building full-stack applications, working with data, and exploring software & AI!
+You’ll usually find me working on projects in Hackathons involving backend systems, modern web frameworks, or data-driven tools. 
 
 🌐 Website: [www.kushp1314](http://www.kushp1314)
 

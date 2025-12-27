@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![My Skills](https://skillicons.dev/icons?i=py,java,ts,cpp,js,html,css,r,postgres,mysql,flask,react,nextjs,nodejs,firebase,azure,gcp,git,docker,vscode,idea&perline=10)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,cpp,html,css,react,nextjs,nodejs,postgres,mysql,git,docker,vscode,idea&perline=10)](https://skillicons.dev)

@@ -1,18 +1,14 @@
 ## Hi there 👋
 
-<!--
-**kush1314/kush1314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Kush! I’m currently studying **Computer Science & Economics** with a **minor in Statistics** at **UIUC**.  
+I enjoy building full-stack applications, working with data, and exploring how software and AI can solve real-world problems.
 
-Here are some ideas to get you started:
+You’ll usually find me working on projects involving backend systems, modern web frameworks, or data-driven tools. Always learning, always building 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Website: [www.kushp1314](http://www.kushp1314)
+
+---
+
+### 🔧 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,cpp,html,css,react,nextjs,nodejs,postgres,mysql,git,docker,vscode,idea&perline=10)](https://skillicons.dev)

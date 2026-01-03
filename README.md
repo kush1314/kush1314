@@ -3,8 +3,8 @@
 -I enjoy building full-stack applications, working with data, and exploring software & AI!
 -You’ll usually find me working on projects in Hackathons involving backend systems, modern web frameworks, or data-driven tools. 
 
- Website: [www.kushp1314](http://www.kushp1314)
-
+ Website: Coming Soon :)
+ 
 ### Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,cpp,html,css,react,nextjs,nodejs,postgres,mysql,git,docker,vscode,idea&perline=10)](https://skillicons.dev)
